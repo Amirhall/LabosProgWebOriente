@@ -1,0 +1,124 @@
+<div class="container {{theme}}">
+    <div class="row">
+        <div>
+            <h2>Le laboratoire 2 n'est pas très esthétique</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- 2. Afficher une liste simple avec *ngFor -->
+        <div>
+            <ul>
+                <li *ngFor="let t of trucsQueJaime">{{t}}</li>
+            </ul>
+
+        </div>
+
+        <!-- 3. Affichage conditionnel avec *ngIf -->
+        <div>
+            J'aime les
+            <span *ngIf="userAge <18; else bruh">&nbsp;LEGO Star Wars</span>
+            <ng-template #bruh>&nbsp;cigarettes</ng-template>.
+
+        </div>
+
+
+        <!-- 4. Événement (click) avec bombe -->
+        <div class="bomb">
+            <button (click)="count()">Compte à rebours</button>
+            <p>Clics restants : {{10-n}} <span *ngIf="n == 10">💥</span><span *ngIf="n != 10">💣</span></p>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- 5. Thème clair / sombre -->
+        <div>
+            <button (click)="changeTheme()">Changer le thème</button>
+        </div>
+
+        <!-- 6. Champ pour saluer -->
+        <div>
+            <input type="text" name="userName" [(ngModel)]="userName"> <button (click)="saluer()">Saluer</button>
+        </div>
+
+        <!-- 7. Champ pour choisir une couleur -->
+        <div style="background-color: {{selectBackgroundColor}};">
+            <select name="backgroundColor" [(ngModel)]="selectBackgroundColor">
+                <option value="lightcyan">Bleu</option>
+                <option value="mistyrose">Rouge</option>
+                <option value="lightyellow">Jaune</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- 8. Formulaire pour créer des jeux vidéos -->
+        <div class="bomb">
+            Nom : <input type="text" name="vgName" [(ngModel)]="vgName"><br>
+            Nombre maximal de joueurs : <input type="number" name="vgNbPlayers" [(ngModel)]="vgNbPlayers"><br>
+            Jeu sorti <input type="checkbox" name="vgReleased" name="vgReleased"><br>
+            Genres (séparés par des virgules, sans espaces) : <input type="text" name="vgGenre"
+                [(ngModel)]="vgGenre"><br>
+            Mode de jeu : <br>
+            → Hors ligne <input type="radio" name="vgMode" [(ngModel)]="vgMode" value="hors ligne"><br>
+            → En ligne <input type="radio" name="vgMode" [(ngModel)]="vgMode" value="en ligne"><br>
+            → En ligne et hors ligne <input type="radio" [(ngModel)]="vgMode" name="vgMode"
+                value="en ligne et hors ligne"><br>
+            <button (click)="creerUnJeu()">Créer le jeu</button>
+
+            <div>@for(v of videoGames;track $index){
+                • {{v.name}} (<span *ngFor="let g of v.genre">{{g}} </span>) se joue
+                jusqu'à {{v.nbPlayers}} joueur(s) {{v.mode}} et {{v.released ? 'est déjà sorti' : 'n\'est pas encore
+                sorti'}}.<br><br>
+                }
+                @empty {<div>Aucun jeu vidéo existe</div>}
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="row">
+                <!-- 9. @for -->
+                <div>
+
+                </div>
+            </div>
+
+            <div class="row">
+
+                <!-- 10. @if -->
+                <div>
+                    @if (theme == "light") {
+                    <div>ahhhhh mes yeux</div>
+                    }
+                    @else {
+                    <div>Il fait bien sombre ici</div>
+                    }
+
+                </div>
+
+                <!-- 11. @switch -->
+                <div>
+                    @switch(videoGames.length){
+                    @case(1){
+                    <div> Un jeu ? C'est peu 🤏</div>
+                    }
+                    @case(2){
+                    <div> Deux jeux ? Ça occupe 🙄</div>
+                    }
+                    @case(4){
+                    <div>3 : Tu dois sûrement faire partie du 1% ! 💰</div>
+                    }
+                    @default{
+                    <div>Tous les autres cas : Aucun ou trop de jeux 🤔</div>
+                    }
+                    }
+
+
+
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
