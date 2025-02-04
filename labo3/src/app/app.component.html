@@ -1,0 +1,44 @@
+<div class="container">
+
+  <div class="row">
+
+    <div class="title">🎵 Laboratoire 3</div>
+
+  </div>
+
+  <div class="row">
+
+     <!-- Requête #1 : Obtenir les artistes similaires -->
+    <div>
+      Artiste : <input type="text" name="artistName" [(ngModel)]="artistName" placeholder="Nana Mouskouri"> 
+      &nbsp;<button (click)="getSimilarArtists()">Chercher les artistes similaires</button>
+      <p>{{errorArtistMessage}}</p>
+      <hr>
+
+      <div *ngIf="getSimilarArtistCompleted">
+        Résultats :
+        <ul>
+          <li *ngFor="let s of similarArtists">{{s}}</li>
+        </ul>
+      </div>
+      
+    </div>
+
+    <!-- Requête #2 : Obtenir les meilleures chansons d'un genre -->
+    <div>
+      Genre : <input type="text" name="genre" [(ngModel)]="genre" placeholder="pop"> 
+      &nbsp;<button (click)="getTopSongs()">Chercher les meilleures chansons</button>
+      <hr>
+      <p>{{errorGenreMessage}}</p>
+      <div *ngIf="getTopSongCompleted">
+        Résultats :
+        <ul>
+          <li *ngFor="let s of topSongs">{{s.name}} de {{s.artist}} ({{s.duration}} secondes)  </li>
+        </ul>
+      </div>
+      
+    </div>
+
+  </div>
+ 
+</div>
