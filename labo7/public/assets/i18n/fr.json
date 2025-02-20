@@ -1,0 +1,12 @@
+{
+    "composant1":{
+      "text1": "Votre argent : {{x}} $",
+      "text3" : "Parier 5 $ sur un numéro",
+      "text4" : "Parier 5 $ sur rouge",
+      "text5" : "Parier 5 $ sur noir",
+      "text6" : "Roulette bilingue",
+      "text7" : "Ne pas jouer si vous êtes facilement étourdi(e)"
+    
+
+  }
+}

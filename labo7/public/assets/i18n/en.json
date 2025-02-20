@@ -1,0 +1,13 @@
+{
+    "composant1":{
+      "text1": "Your money : $ {{x}}",
+      "text3" : "Bet $ 5 on a number",
+      "text4" : "Bet $ 5 on red",
+      "text5" : "Bet $ 5 on black",
+      "text6" : "Bilingual roulette",
+      "text7" : "Do not play if you get dizzy easily"
+    
+
+
+  }
+}

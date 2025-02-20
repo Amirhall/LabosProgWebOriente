@@ -1,0 +1,28 @@
+<main class="container fond">
+    <div class="row">
+      <div class="col-3">
+        <form (ngSubmit)="jouer(number!)">
+          <div class="money" >{{ 'composant1.text1' | translate : {x: money} }}</div><br>
+          <div>{{ 'composant1.text3' | translate }}</div>
+          <input type="number" name="number" [(ngModel)]="number" class="form-control" min="0" max="35" pattern="[0-9]+"><br>
+        </form>
+        <div class="form">
+          <button (click)="jouerCouleur('red')" class="btn btn-danger form-control">{{ 'composant1.text4' | translate }}</button><br><br>
+          <button (click)="jouerCouleur('black')" class="btn btn-dark form-control">{{ 'composant1.text5' | translate }}</button><br>
+        </div>
+        <div class="form">
+          <button class="btn btn-light form-control" (click)="changeLanguage('fr')">Français</button><br><br>
+          <button class="btn btn-light form-control" (click)="changeLanguage('en')">English</button><br>
+        </div>
+      </div>
+      <div class="col text-center">
+        <h2>{{ 'composant1.text6' | translate }}</h2>
+        <div class="roulette">
+          <img src="../../assets/images/ball.png" alt="Ball" id="ball" style="left:473px; top:197px;">
+          <img src="../../assets/images/roulette.png" alt="Roulette" class="slot">
+        </div>
+        <div id="messageRoulette">{{ 'composant1.text7' | translate }}</div>
+      </div>
+    </div>
+  </main>
+  
