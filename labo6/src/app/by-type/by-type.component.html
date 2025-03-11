@@ -1,0 +1,22 @@
+<h3>Chercher des cartes par type</h3>
+
+<div>Exemples de types : <div class="type" *ngFor="let t of magic.typeExamples" (click)="chooseType(t)">{{t}}</div></div>
+
+
+
+Type : <input type="text" name="inputType" [(ngModel)]="inputType">
+<button (click)="searchByType()">Chercher</button>
+
+<div *ngIf="cards.length > 0">
+    <hr>
+    <h4>Résultats</h4>
+    <div *ngIf="nameSuggestions.length > 0">Suggestions de filtre par nom : <div class="type" *ngFor="let n of nameSuggestions" (click)="chooseName(n)">{{n}}</div></div>
+    <div class="cards">
+        <div *ngFor="let c of cards">
+            <p>{{c.name}}</p>
+            <img src="{{c.imageUrl}}" alt="{{c.name}}">
+            <p>Mana : {{c.manaCost}}</p>
+            <p>Type : {{c.type}}</p>
+        </div>
+    </div>
+</div>

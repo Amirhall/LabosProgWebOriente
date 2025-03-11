@@ -1,0 +1,19 @@
+<p>
+    Cette application permet de rechercher des cartes du jeu <i>Yu-Gi-Oh! Trading Card Game</i>. 
+    Il est possible de faire une recherche par nom ou par type.
+</p>
+
+<div class="navButtons">
+    <div [routerLink]="['/byName']">Recherche par nom</div>
+    <div [routerLink]="['/byName']">Recherche par type</div>
+</div>
+
+<hr>
+
+<div>Exemples de types : <div class="type" *ngFor="let t of magic.typeExamples" (click)="chooseType(t)">{{t}}</div></div>
+
+<div>Exemples de noms : <div class="type" *ngFor="let n of magic.nameExamples" (click)="chooseName(n)">{{n}}</div></div>
+
+<div class="banner">
+    <img src="/assets/images/yugioh.png" alt="Cartes Yu-Gi-Oh!" class="banner">
+</div>

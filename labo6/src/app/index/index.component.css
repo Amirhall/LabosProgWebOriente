@@ -1,0 +1,43 @@
+.navButtons{
+    display:flex;
+    gap:10px;
+}
+
+.navButtons>div{
+    flex:1;
+    text-align: center;
+    background-color: rgb(253, 196, 203);
+    font-weight:bold;
+    border-radius:10px;
+    padding:10px;
+    cursor:pointer;
+}
+
+.navButtons>div:hover{
+    background-color:rgb(255, 241, 243);
+}
+
+.banner{
+    text-align: center;
+    margin-top:10px;
+}
+
+.banner>img{
+    border:solid white 3px;
+    border-radius:3px;
+}
+
+.type{
+    display:inline-block;
+    margin:5px;
+    background-color: rgb(253, 196, 203);
+    font-weight:bold;
+    font-size:0.8em;
+    padding:5px 10px;
+    border-radius:3px;
+    cursor:pointer;
+}
+
+.type:hover{
+    background-color:rgb(255, 241, 243);
+}

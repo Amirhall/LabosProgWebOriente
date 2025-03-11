@@ -1,0 +1,51 @@
+.container {
+    width: 800px;
+    margin: auto;
+    font-family: verdana;
+}
+
+header {
+    font-size: 1.2em;
+}
+
+.container>* {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: rgb(255, 223, 227);
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.container>nav{
+    display:flex;
+    padding:0px;
+    gap:5px;
+}
+
+nav>div{
+    flex:1;
+    text-align: center;
+    padding:10px;
+    font-weight:bold;
+    font-size:0.8em;
+    cursor:pointer;
+}
+
+nav>div:hover{
+    background-color: rgb(255, 241, 243);
+}
+
+.searchCount{
+    position:fixed;
+    bottom:5px;
+    left:5px;
+    background-color:rgba(0,0,0,0.6);
+    color:white;
+    font-weight:bold;
+    padding:5px 10px;
+    border-radius:5px;
+}

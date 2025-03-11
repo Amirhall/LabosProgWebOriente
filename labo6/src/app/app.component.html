@@ -1,0 +1,14 @@
+<div class="container">
+  <header>🃏🤓 Services : the gathering</header>
+  <nav>
+    <div [routerLink]="['/index']">Accueil</div>
+    <div [routerLink]="['/byName']">Recherche par nom</div>
+    <div [routerLink]="['/byType']">Recherche par type</div>
+  </nav>
+  <main>
+    <router-outlet></router-outlet>
+  </main>
+  <footer>&copy; Laboratoire 6</footer>
+</div>
+
+<div class="searchCount">Nombre de recherches : {{magic.requestCount}}</div>
