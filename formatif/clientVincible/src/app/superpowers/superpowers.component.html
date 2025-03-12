@@ -1,0 +1,17 @@
+<h2>Recherche de personnages par pouvoir</h2>
+
+<p>Exemples : Vol, Invulnérabilité, Régénération, Vitesse surhumaine, Force surhumaine, etc.</p>
+
+<input type="text" name="powerInput" [(ngModel)]="powerInput" placeholder="Nom du personnage"> <button (click)="searchCharacters(powerInput)">Rechercher</button>
+
+<p>{{characters.length}} résultat(s)</p>
+
+<div class="row">
+    <div *ngFor="let s of characters">
+        <img src="{{s.imageUrl}}" alt="imageSuperHero">
+        <p>Nom : {{s.name}}</p>
+        <p>Âge : {{s.age}}</p>
+        <p>Statut : {{s.isAlive ? 'En vie' : 'Vaincu(e)'}}</p>
+        <hr>
+    </div>
+</div>

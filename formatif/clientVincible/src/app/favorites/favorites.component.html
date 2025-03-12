@@ -1,0 +1,16 @@
+<h2>{{ 'favorites.characters' | translate }}</h2>
+
+<div class="row">
+    <div *ngFor="let c of characters">
+        <img src="{{c.imageUrl}}" alt="Invincible">
+        <p>Nom : {{c.name}}</p>
+        <hr>
+    </div>
+    <div>
+        <img src="http://localhost:5254/api/Characters/GetPicture/2" alt="Atom Eve">
+        <p></p>
+        <hr>
+    </div>   
+</div>
+
+<button (click)="emptyFavs()">{{ 'favorites.empty' | translate }}</button>
