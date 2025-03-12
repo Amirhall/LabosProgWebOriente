@@ -23,14 +23,23 @@ export class CharactersComponent {
   addToFavs(){
     if(this.character == null) return;
     alert(this.character.name + " ajouté(e) aux favoris !");
+    
+
+    let favoris = [];
+    
+    // Tenter d'aller récupérer les anciens favoris dans le stockage local
+    
+    // Si les anciens favoris existent bel et bien, remplacer favoris par le stockage local
     let favData = localStorage.getItem("fav");
     if(favData != null){
-      this.favoriteslist = JSON.parse(favData);
-      this.favoriteslist.push(this.character);
-      localStorage.setItem("fav", JSON.stringify(this.favoriteslist));
-
+      favoris = JSON.parse(favData);
     }
 
+    // Ajouter le personnage dans les favoris
+    favoris.push(this.character);
+
+    // Sauvegarder le stockage local
+    localStorage.setItem("fav", JSON.stringify(favoris));
 
     // À compléter
   }

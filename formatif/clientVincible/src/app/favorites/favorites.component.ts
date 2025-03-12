@@ -26,6 +26,8 @@ export class FavoritesComponent implements OnInit{
   }
 
   emptyFavs(){
+    localStorage.clear();
+    this.characters = [];
 
   }
 
