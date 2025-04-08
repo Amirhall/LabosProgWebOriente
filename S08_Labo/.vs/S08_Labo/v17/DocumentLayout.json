@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\controllers\\artistescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:controllers\\artistescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\models\\viewmodel\\artisteemployeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:models\\viewmodel\\artisteemployeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\artistes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\artistes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\controllers\\employescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:controllers\\employescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\employes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\employes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\employes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\employes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:models\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\artistes\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\artistes\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\models\\vwlisteartiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:models\\vwlisteartiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\artistes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\artistes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\models\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:models\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s08_labo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C313D45-1D7F-4177-A0FF-2A4191CFE543}|S08_Labo.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T21:14:39.603Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtisteEmployeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Models\\ViewModel\\ArtisteEmployeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModel\\ArtisteEmployeViewModel.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Models\\ViewModel\\ArtisteEmployeViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModel\\ArtisteEmployeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:02:13.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T22:00:43.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Artistes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Artistes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Artistes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Artistes\\Create.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T21:00:42.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Employes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Employes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employes\\Create.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T21:16:59.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Artistes\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Artistes\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Artistes\\Index2.cshtml",
+              "RelativeToolTip": "Views\\Artistes\\Index2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T21:05:15.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Error.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Error.cshtml",
+              "RelativeToolTip": "Views\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T21:04:37.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Artistes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Artistes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Artistes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Artistes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:57:09.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtistesController.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Controllers\\ArtistesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArtistesController.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Controllers\\ArtistesController.cs",
+              "RelativeToolTip": "Controllers\\ArtistesController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:54:56.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T22:03:54.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:54:58.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T20:45:51.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:45:52.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Models\\Employe.cs",
+              "RelativeDocumentMoniker": "Models\\Employe.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Models\\Employe.cs",
+              "RelativeToolTip": "Models\\Employe.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T21:48:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Employes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\Employes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Employes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T21:48:41.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployesController.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Controllers\\EmployesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployesController.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Controllers\\EmployesController.cs",
+              "RelativeToolTip": "Controllers\\EmployesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:54:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T21:08:16.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VwListeArtiste.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Models\\VwListeArtiste.cs",
+              "RelativeDocumentMoniker": "Models\\VwListeArtiste.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Models\\VwListeArtiste.cs",
+              "RelativeToolTip": "Models\\VwListeArtiste.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:52:58.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Artiste.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Models\\Artiste.cs",
+              "RelativeDocumentMoniker": "Models\\Artiste.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S08_Labo\\Models\\Artiste.cs",
+              "RelativeToolTip": "Models\\Artiste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:52:48.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

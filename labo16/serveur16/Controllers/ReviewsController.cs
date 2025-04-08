@@ -84,8 +84,6 @@ namespace serveur16.Controllers
                 review.Upvoters.Add(user);
             
             }
-            _context.ChangeTracker.Clear();
-            _context.Entry(review).State = EntityState.Modified;
 
             try
             {
