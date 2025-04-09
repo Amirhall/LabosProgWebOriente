@@ -1,0 +1,22 @@
+<h2>Recherche de personnages par nom</h2>
+
+<p>Exemples : Invincible, Atom Eve, Omni-Man, Allen the Alien, Dupli-Kate, etc.</p>
+
+<input type="text" name="characterInput" placeholder="Nom du personnage"> <button>Rechercher</button>
+
+<h3 *ngIf="character != null">Résultat</h3>
+<div class="row" *ngIf="character != null">
+    <div>
+        <img src="{{character.imageUrl}}" alt="{{character.name}}">
+    </div>
+    <div>
+        <p>Nom : {{character.name}}</p>
+        <p>Âge : {{character.age == null ? "Inconnu" : character.age}}</p>
+        <p>Statut : {{character.isAlive ? 'En vie' : 'Vaincu(e)'}}</p>
+        <p>Pouvoirs : </p>
+        <ul>
+            <li *ngFor="let s of character.powers">{{s}}</li>
+        </ul>
+        <button (click)="addToFavs()">⭐ Ajouter aux favoris</button>
+    </div>
+</div>

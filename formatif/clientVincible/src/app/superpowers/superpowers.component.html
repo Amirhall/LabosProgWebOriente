@@ -1,0 +1,31 @@
+<h2>Recherche de personnages par pouvoir</h2>
+
+<p>Exemples : Vol, Invulnérabilité, Régénération, Vitesse surhumaine, Force surhumaine, etc.</p>
+
+<input type="text" name="powerInput" [(ngModel)]="powerInput" placeholder="Nom du personnage"> <button (click)="searchCharacters()">Rechercher</button>
+
+<p>{{characters.length}} résultat(s)</p>
+
+<div class="row">
+    <div>
+        <img src="http://localhost:5254/api/Characters/GetPicture/6" alt="Dupli-Kate">
+        <p>Nom : Dupli-Kate</p>
+        <p>Âge : Inconnu</p>
+        <p>Statut : En vie</p>
+        <hr>
+    </div>
+    <div>
+        <img src="http://localhost:5254/api/Characters/GetPicture/13" alt="Robot">
+        <p>Nom : Robot</p>
+        <p>Âge : 12</p>
+        <p>Statut : En vie</p>
+        <hr>
+    </div>
+    <div>
+        <img src="http://localhost:5254/api/Characters/GetPicture/14" alt="Shapesmith">
+        <p>Nom : Shapesmith</p>
+        <p>Âge : Inconnu</p>
+        <p>Statut : En vie</p>
+        <hr>
+    </div>
+</div>

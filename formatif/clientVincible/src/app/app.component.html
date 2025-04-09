@@ -1,0 +1,19 @@
+<div class="container" [routerLink]="['/characters']">
+
+  <header class="row">
+    <img src="/assets/images/titleIcon.png" alt="Vincinble icon"><h2>Formatif </h2><img src="/assets/images/title.png" alt="Vincible title">
+  </header>
+
+</div>
+
+<nav class="container">
+  <div class="row">
+    <div [routerLink]="['/characters']">Personnages</div>
+    <div [routerLink]="['/superpowers']">Super-pouvoirs</div>
+    <div [routerLink]="['/favorites']">Favoris</div>
+  </div>
+</nav>
+
+<main class="container">
+  <router-outlet></router-outlet>
+</main>
