@@ -73,7 +73,9 @@ namespace serveur21.Controllers
                 return Ok(new
                 {
                     token = new JwtSecurityTokenHandler().WriteToken(token),
-                    validTo = token.ValidTo
+                    validTo = token.ValidTo,
+                    roles = roles,
+                    pseudo = user.UserName
                     // Pssst !
                 });
             }

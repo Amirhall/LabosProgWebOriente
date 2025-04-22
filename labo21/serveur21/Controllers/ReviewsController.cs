@@ -63,7 +63,7 @@ namespace serveur21.Controllers
             Review? review = await _context.Review.FindAsync(id);
             if (review == null) return NotFound();
 
-            if (review.User != user || isCorruptedTeacher) return Forbid();
+            if (review.User != user && isCorruptedTeacher == false) return Forbid();
 
             _context.Review.Remove(review);
             await _context.SaveChangesAsync();
