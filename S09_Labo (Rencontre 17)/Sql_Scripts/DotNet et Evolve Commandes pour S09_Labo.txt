@@ -1,0 +1,25 @@
+-- inital create
+IF EXISTS(SELECT * FROM sys.databases WHERE name='S09_Labo')
+BEGIN
+    DROP DATABASE S09_Labo
+END
+
+CREATE DATABASE S09_Labo
+GO
+
+
+-- dotnet ef dbcontext
+dotnet ef dbcontext scaffold Name=S09_Labo Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --data-annotations
+
+
+-- Mettre à jour pour la version prerelease qui fonctionne avec .Net 8.0
+
+dotnet tool update evolve.tool -g --prerelease
+
+-- Exécution des migrations
+evolve migrate sqlserver -c "Server=.;Initial Catalog=S09_Labo;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Musique -s Utilisateurs --target-version 1.0
+
+
+
+-- régénération des Modèles et du Context 
+dotnet ef dbcontext scaffold Name=S09_Labo Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --data-annotations --force

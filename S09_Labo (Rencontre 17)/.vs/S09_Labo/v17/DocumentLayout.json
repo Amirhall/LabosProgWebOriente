@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\views\\musique\\chanteurs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:views\\musique\\chanteurs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\v1_2__vuechanteurs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\v1_2__vuechanteurs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\v1_3__procedurechanteurchanson.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\v1_3__procedurechanteurchanson.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\v1_1__cleartificiellechanteur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\v1_1__cleartificiellechanteur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\models\\changelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:models\\changelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\models\\chanteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:models\\chanteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\v1_0__musicienmusique.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\v1_0__musicienmusique.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\controllers\\musiquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:controllers\\musiquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\dotnet et evolve commandes pour s09_labo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\dotnet et evolve commandes pour s09_labo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\initialcreate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\s09_labo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:s09_labo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\v1_1__cleartificiellechanteur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\v1_1__cleartificiellechanteur.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\v1_0__musicienmusique.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\v1_0__musicienmusique.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\v1_2__vuechanteurs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\v1_2__vuechanteurs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\v1_2__vuechanteurs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\v1_2__vuechanteurs.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|c:\\users\\2284873\\documents\\labosprogweboriente\\s09_labo (rencontre 17)\\sql_scripts\\v1_3__procedurechanteurchanson.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{FF3D2EC9-C760-4ADA-A742-4DE8E4E802EE}|S09_Labo.csproj|solutionrelative:sql_scripts\\v1_3__procedurechanteurchanson.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Changelog.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Models\\Changelog.cs",
+              "RelativeDocumentMoniker": "Models\\Changelog.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Models\\Changelog.cs",
+              "RelativeToolTip": "Models\\Changelog.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:28:45.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chanteur.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Models\\Chanteur.cs",
+              "RelativeDocumentMoniker": "Models\\Chanteur.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Models\\Chanteur.cs",
+              "RelativeToolTip": "Models\\Chanteur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:28:31.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chanteurs.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Views\\Musique\\Chanteurs.cshtml",
+              "RelativeDocumentMoniker": "Views\\Musique\\Chanteurs.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Views\\Musique\\Chanteurs.cshtml",
+              "RelativeToolTip": "Views\\Musique\\Chanteurs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:25:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "V1_1__CleArtificielleChanteur.sql ",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\V1_1__CleArtificielleChanteur.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_1__CleArtificielleChanteur.sql",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\V1_1__CleArtificielleChanteur.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_1__CleArtificielleChanteur.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-24T16:57:17.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:07:13.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "V1_0__MusicienMusique.sql ",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\V1_0__MusicienMusique.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_0__MusicienMusique.sql",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\V1_0__MusicienMusique.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_0__MusicienMusique.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-20T21:57:59.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InitialCreate.sql",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\InitialCreate.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\InitialCreate.sql",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\InitialCreate.sql",
+              "RelativeToolTip": "Sql_Scripts\\InitialCreate.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-20T21:57:34.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "V1_2__VueChanteurs.sql ",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\V1_2__VueChanteurs.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_2__VueChanteurs.sql",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\V1_2__VueChanteurs.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_2__VueChanteurs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-20T21:58:42.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "V1_3__ProcedureChanteurChanson.sql ",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\V1_3__ProcedureChanteurChanson.sql",
+              "RelativeDocumentMoniker": "Sql_Scripts\\V1_3__ProcedureChanteurChanson.sql",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\V1_3__ProcedureChanteurChanson.sql",
+              "RelativeToolTip": "Sql_Scripts\\V1_3__ProcedureChanteurChanson.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-20T21:58:54.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "S09_Labo.csproj",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\S09_Labo.csproj",
+              "RelativeDocumentMoniker": "S09_Labo.csproj",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\S09_Labo.csproj",
+              "RelativeToolTip": "S09_Labo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T21:51:15.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DotNet et Evolve Commandes pour S09_Labo.txt",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\DotNet et Evolve Commandes pour S09_Labo.txt",
+              "RelativeDocumentMoniker": "Sql_Scripts\\DotNet et Evolve Commandes pour S09_Labo.txt",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Sql_Scripts\\DotNet et Evolve Commandes pour S09_Labo.txt",
+              "RelativeToolTip": "Sql_Scripts\\DotNet et Evolve Commandes pour S09_Labo.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-24T18:03:26.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusiqueController.cs",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Controllers\\MusiqueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MusiqueController.cs",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Controllers\\MusiqueController.cs",
+              "RelativeToolTip": "Controllers\\MusiqueController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswEIAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:09:34.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T22:04:37.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\2284873\\Documents\\LabosProgWebOriente\\S09_Labo (Rencontre 17)\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T22:00:55.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
