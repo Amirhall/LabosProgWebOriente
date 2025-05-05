@@ -1,0 +1,35 @@
+1) Configurer Filestream (si à la maison)
+
+C:\Windows\SysWOW64
+
+SqlServerManager15.msc
+
+RC sur SQL SERVER SERVICES \ SqlServer (SQLEXPRESS)
+Propriétés
+Onglet FILESTREAM
+Cochez les 2 cases
+
+RC sur SQL SERVER SERVICES \ SqlServer (SQLEXPRESS)  
+restart
+
+
+
+2) Installation de Evolve Tool  (si à la maison)
+
+dotnet tool install --global Evolve.Tool 
+
+
+3) Mettre à jour pour la version prerelease qui fonctionne avec .Net 8.0
+
+dotnet tool update evolve.tool -g --prerelease
+
+
+4) Migration
+
+evolve migrate sqlserver -c "Data Source=.;Initial Catalog=R22_Billeterie;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False" -s Clients -s Spectacles --target-version 1.0
+
+
+5) Scaffold
+
+dotnet ef dbcontext scaffold Name=R22_Billeterie Microsoft.EntityFrameworkCore.SqlServer -o Models --context-dir Data --context R22_BilleterieContext --data-annotations --force
+
